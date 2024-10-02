@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+body{
+    background-color: rgb(11, 86, 109);
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+img{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
